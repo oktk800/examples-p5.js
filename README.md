@@ -1,2 +1,2 @@
-# small-code
-This is the repository for example code that is small and not big code.
+# examples-p5.js
+This is the repository for example p5.js code.
